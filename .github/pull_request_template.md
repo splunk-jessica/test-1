@@ -6,8 +6,8 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ## Type of change
 
-[ ] App update/bug fix
-[ ] New app
+- [ ] App update/bug fix
+- [ ] New app
 
 ## Phantom App Name:
 
